@@ -1,2 +1,2 @@
 # css-assignment
-https://github.com/Nexzie/css-assignment
+https://github.com/Nexzie/css-assignment/tree/master
